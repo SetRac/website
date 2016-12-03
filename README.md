@@ -1,6 +1,6 @@
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/186/9.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-website-186)
-[![Build Status](https://travis-ci.org/OCA/website.svg?branch=9.0)](https://travis-ci.org/OCA/website)
-[![Coverage Status](https://codecov.io/gh/OCA/website/branch/9.0/graph/badge.svg)](https://codecov.io/gh/OCA/website)
+[![Build Status](https://travis-ci.org/zeroincombenze/website.svg?branch=9.0)](https://travis-ci.org/zeroincombenze/website)
+[![Coverage Status](https://codecov.io/gh/zeroincombenze/website/branch/9.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/website)
 
 Odoo modules for website builder
 ================================
