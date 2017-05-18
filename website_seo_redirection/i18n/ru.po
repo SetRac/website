@@ -3,14 +3,14 @@
 # * website_seo_redirection
 # 
 # Translators:
-# Mikhail - <expromt.core@gmail.com>, 2016
+# OCA Transbot <transbot@odoo-community.org>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 9.0c\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-29 03:55+0000\n"
-"PO-Revision-Date: 2016-11-29 03:55+0000\n"
-"Last-Translator: Mikhail - <expromt.core@gmail.com>, 2016\n"
+"POT-Creation-Date: 2016-12-28 14:13+0000\n"
+"PO-Revision-Date: 2016-12-28 14:13+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2016\n"
 "Language-Team: Russian (https://www.transifex.com/oca/teams/23907/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,12 +56,12 @@ msgstr ""
 #. module: website_seo_redirection
 #: model:ir.model.fields,field_description:website_seo_redirection.field_website_seo_redirection_create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: website_seo_redirection
 #: model:ir.model.fields,field_description:website_seo_redirection.field_website_seo_redirection_create_date
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: website_seo_redirection
 #: model:ir.model.fields,field_description:website_seo_redirection.field_website_seo_redirection_destination
@@ -106,7 +106,7 @@ msgstr ""
 #. module: website_seo_redirection
 #: model:ir.model.fields,field_description:website_seo_redirection.field_website_seo_redirection_id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: website_seo_redirection
 #. openerp-web
@@ -141,12 +141,12 @@ msgstr ""
 #. module: website_seo_redirection
 #: model:ir.model.fields,field_description:website_seo_redirection.field_website_seo_redirection_write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website_seo_redirection
 #: model:ir.model.fields,field_description:website_seo_redirection.field_website_seo_redirection_write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website_seo_redirection
 #: code:addons/website_seo_redirection/models/website_seo_redirection.py:109
