@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: website (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-25 01:52+0000\n"
-"PO-Revision-Date: 2016-11-22 16:25+0000\n"
+"POT-Creation-Date: 2017-05-02 02:17+0000\n"
+"PO-Revision-Date: 2017-05-11 14:11+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Russian (http://www.transifex.com/oca/OCA-website-8-0/language/ru/)\n"
 "MIME-Version: 1.0\n"
@@ -415,7 +415,7 @@ msgstr ""
 #. module: website_slides
 #: view:website:website_slides.embed_slide
 msgid "Email"
-msgstr ""
+msgstr "Эл. почта"
 
 #. module: website_slides
 #: view:website:website_slides.slide_detail_view
@@ -586,7 +586,7 @@ msgstr "Домой"
 #: field:slide.slide,id:0 field:slide.tag,id:0
 #: field:website.published.mixin,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: website_slides
 #: help:slide.channel,message_unread:0 help:slide.slide,message_unread:0
@@ -662,7 +662,7 @@ msgstr "Последнее обновление "
 #: field:slide.embed,write_date:0 field:slide.slide,write_date:0
 #: field:slide.tag,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website_slides
 #: view:website:website_slides.embed_slide
@@ -1069,7 +1069,7 @@ msgstr ""
 #. module: website_slides
 #: field:slide.category,sequence:0 field:slide.channel,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Последовательность"
 
 #. module: website_slides
 #: view:website:website_slides.embed_slide
@@ -1257,7 +1257,7 @@ msgstr ""
 #. module: website_slides
 #: field:slide.category,total:0 field:slide.channel,total:0
 msgid "Total"
-msgstr ""
+msgstr "Всего"
 
 #. module: website_slides
 #: field:slide.slide,total_views:0
