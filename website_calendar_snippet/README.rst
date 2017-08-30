@@ -26,10 +26,14 @@ Since it's a block it can be placed anywhere on your website.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -54,8 +58,10 @@ To use this module, you need to:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -71,13 +77,16 @@ Credits
 -------
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Dennis Sluijk <d.sluijk@onestein.nl>
@@ -85,6 +94,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

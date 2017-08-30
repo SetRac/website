@@ -22,12 +22,14 @@ Installation
 ------------
 
 
+
 To install this module, you need to:
 
 * website_blog
 
 Configuration
 -------------
+
 
 
 To configure this module, you need to:
@@ -39,11 +41,15 @@ To configure this module, you need to:
 Usage
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/{project_repo}/issues>`_.
@@ -56,9 +62,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafabn@antiun.com>
@@ -67,6 +76,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

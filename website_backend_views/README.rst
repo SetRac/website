@@ -20,10 +20,14 @@ This is specifically convenient if you need to use on_change functions, user inp
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -34,6 +38,7 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * more testing needed
 * not all css styles from the backend apply (should be just a matter of having the right html structure/classes attached to the container)
 * maybe we can do something for anonymous users?
@@ -42,13 +47,17 @@ Known issues / Roadmap
 Bug Tracker
 -----------
 
+
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrunn@therp.nl>
@@ -56,6 +65,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

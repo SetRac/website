@@ -25,10 +25,14 @@ For example, if you have an English and a German company and you sell online a p
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -40,16 +44,21 @@ If a product can be sold by any company, just leave company field empty.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
@@ -58,6 +67,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

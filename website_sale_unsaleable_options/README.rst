@@ -23,24 +23,33 @@ That is, they can only be sold if associated to their main product.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
@@ -49,6 +58,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

@@ -28,10 +28,14 @@ through the website
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -41,6 +45,7 @@ Website editor can change easily any text of these pages using website builder
 
 Known issues / Roadmap
 ----------------------
+
 
 
 Disclaimer
@@ -69,6 +74,7 @@ Bug Tracker
 -----------
 
 
+
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed feedback
@@ -77,6 +83,7 @@ If you spotted it first, help us smashing it by providing a detailed and welcome
 
 Credits
 -------
+
 
 
 Templates
@@ -97,7 +104,9 @@ Thanks to [johnny_automatic](https://openclipart.org/user-detail/johnny_automati
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafabn@antiun.com>
@@ -107,6 +116,8 @@ Thanks to [johnny_automatic](https://openclipart.org/user-detail/johnny_automati
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

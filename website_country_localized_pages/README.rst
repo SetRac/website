@@ -23,12 +23,14 @@ Installation
 ------------
 
 
+
 To install this module, you need ipwhois
 https://pypi.python.org/pypi/ipwhois
 
 
 Configuration
 -------------
+
 
 
 Example
@@ -44,14 +46,18 @@ Visitors from Unites States will see the 'US features' page instead of the stand
 Usage
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
+
 
 
 * Ddding a way to let the user opt-out of the localized pages, or switch to another localization
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -64,9 +70,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
@@ -74,6 +83,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

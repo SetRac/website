@@ -24,8 +24,10 @@ you to customize it.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To configure this module, you need to:
@@ -40,6 +42,8 @@ will want to do):
 * Edit the template called *Quick response to website contact form*.
 
 Usage
+-----
+
 -----
 
 =====
@@ -61,10 +65,12 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * The default template is quite basic, you should change that.
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -94,9 +100,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafabn@antiun.com>
@@ -105,6 +114,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

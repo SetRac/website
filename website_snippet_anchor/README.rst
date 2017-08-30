@@ -28,10 +28,14 @@ http://www.antiun.com/#anchor-name.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -60,8 +64,10 @@ To link to any page's anchor, you need to:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -77,13 +83,16 @@ Credits
 -------
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafabn@antiun.com>
@@ -92,6 +101,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

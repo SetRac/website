@@ -18,10 +18,14 @@ This module allows users to register for free events. Without this module, you'd
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -32,19 +36,24 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * it would be nice if we could define tickets with price zero and free registration then asks which of the free tickets we want to take.
 * Move to OCA/event when migrating to v9.
 
 Bug Tracker
 -----------
 
+
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrunn@therp.nl>
@@ -59,6 +68,8 @@ Addon icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

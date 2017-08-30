@@ -22,8 +22,10 @@ This module allows you to have breadcrumbs in any page of your website.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To configure the shown breadcrumbs, you need to:
@@ -46,6 +48,8 @@ Keep in mind that:
   URL for it.
 
 Usage
+-----
+
 -----
 
 =====
@@ -73,8 +77,10 @@ Theming
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -90,13 +96,16 @@ Credits
 -------
 
 
+
 Images
 
 * Jairo Llopis: Icon.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <yajo.sk8@gmail.com>
@@ -104,6 +113,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

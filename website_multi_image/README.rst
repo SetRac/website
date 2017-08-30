@@ -26,6 +26,7 @@ Installation
 ------------
 
 
+
 This module adds no visible behavior, just some reusable tools for developers.
 It will be automatically installed if any other module you have needs those
 tools, but otherwise you probably don not need it.
@@ -45,14 +46,19 @@ To develop a module based on this one:
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -68,9 +74,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafabn@antiun.com>
@@ -79,6 +88,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

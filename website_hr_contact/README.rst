@@ -24,10 +24,14 @@ published. The same rule applies to the address informations.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -40,10 +44,12 @@ Known issues / Roadmap
 ----------------------
 
 
+
  * todo: add the department's address book
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -55,9 +61,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Laurent Mignon <laurent.mignon@acsone.eu>
@@ -65,6 +74,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

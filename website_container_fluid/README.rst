@@ -30,10 +30,14 @@ Odoo's default value is usually **Fixed**, and remains the same.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -52,8 +56,10 @@ To use this module, you need to:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -67,9 +73,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <j.llopis@grupoesoc.es>
@@ -77,6 +86,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

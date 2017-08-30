@@ -23,8 +23,10 @@ and to allow you to define a default survey and to show it to customer after pay
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To configure this module, you need to:
@@ -36,6 +38,8 @@ To configure this module, you need to:
 Usage
 -----
 
+-----
+
 =====
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
@@ -45,8 +49,10 @@ Usage
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -58,13 +64,16 @@ Credits
 -------
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Angel Moya <am@jamotion.ch>
@@ -72,6 +81,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

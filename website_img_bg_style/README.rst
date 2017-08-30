@@ -31,10 +31,14 @@ Available choices are under these categories:
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -57,6 +61,7 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * Right now you can only select one style for every snippet. To fix that we
   would need to base this module in *website_less*, whose source code is not
   available in OCA. In version 9.0 this will be fixed, but in version 8.0 you
@@ -65,6 +70,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -78,9 +84,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <j.llopis@grupoesoc.es>
@@ -88,6 +97,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

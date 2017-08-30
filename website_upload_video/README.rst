@@ -26,10 +26,14 @@ to the internet.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -46,11 +50,13 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * No video preview
 * Option autoplay is not implemented
  
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -66,9 +72,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Dennis Sluijk <d.sluijk@onestein.nl>
@@ -76,6 +85,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

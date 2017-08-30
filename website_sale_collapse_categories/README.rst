@@ -25,16 +25,20 @@ Installation
 ------------
 
 
+
 Install the module the regular way.
 
 Configuration
 -------------
 
 
+
 On website shop page having edit permission, click on Customize, and select
 "Collapse product categories" to use this feature.
 
 Usage
+-----
+
 -----
 
 =====
@@ -48,19 +52,24 @@ Known issues / Roadmap
 ----------------------
 
 
+
 This module won't be needed on v9, because it is already part of the core
 functionality, because of this PR: https://github.com/odoo/odoo/pull/4830.
 
 Bug Tracker
 -----------
 
+
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Odoo S.A.
@@ -69,6 +78,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

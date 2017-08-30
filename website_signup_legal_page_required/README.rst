@@ -24,8 +24,10 @@ account.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To enable users to create accounts:
@@ -41,6 +43,8 @@ To customize the legal pages, visit these **after installing the module**:
 * `Terms of use </page/terms>`_.
 
 Usage
+-----
+
 -----
 
 =====
@@ -65,8 +69,10 @@ For further information, please visit:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/ website/issues>`_.
@@ -81,9 +87,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafaelbn@antiun.com>
@@ -92,6 +101,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

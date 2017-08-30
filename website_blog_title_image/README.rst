@@ -22,10 +22,14 @@ With this module you're able to add an image to the title of a blog post.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -39,10 +43,12 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * Shows 'no image' image
  
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -58,9 +64,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Dennis Sluijk <d.sluijk@onestein.nl>
@@ -68,6 +77,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

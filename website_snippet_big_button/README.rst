@@ -24,10 +24,14 @@ customize their links, to provide a better UX for your visitors.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -54,8 +58,10 @@ This section has class ``big-buttons``. Use it to style it.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -71,13 +77,16 @@ Credits
 -------
 
 
+
 Images
 
 * FontAwesome: `Some parts of the icon <http://fontawesome.io/>`_.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <yajo.sk8@gmail.com>
@@ -85,6 +94,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

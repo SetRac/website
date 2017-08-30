@@ -22,16 +22,20 @@ Installation
 ------------
 
 
+
 just install
 
 Configuration
 -------------
 
 
+
 no configure requiered
 
 
 Usage
+-----
+
 -----
 
 =====
@@ -48,10 +52,12 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * None
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/{project_repo}/issues>`_.
@@ -64,9 +70,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Michael Karrer 
@@ -75,6 +84,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

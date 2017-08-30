@@ -20,8 +20,10 @@ This module allows to simply configure your odoo website for using Piwik_.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To configure this module, you need to:
@@ -34,19 +36,26 @@ To configure this module, you need to:
 Usage
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrunn@therp.nl>
@@ -59,6 +68,8 @@ http://piwik.org/media
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

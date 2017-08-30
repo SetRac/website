@@ -23,8 +23,10 @@ Adds a ReCaptcha field widget for website forms
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 * Obtain ReCaptcha key from `Google <http://www.google.com/recaptcha/admin>`_
@@ -32,6 +34,8 @@ Configuration
 * Add secret key to `recaptcha.key.secret` system parameter
 
 Usage
+-----
+
 -----
 
 =====
@@ -56,8 +60,10 @@ Known Issues / Road Map
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -70,9 +76,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Dave Lasley <dave@laslabs.com>
@@ -80,6 +89,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

@@ -26,10 +26,14 @@ photos that have no spaces between themselves.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -67,6 +71,7 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * If you do not set a fixed height to all your images in the snippet, it will
   get an ugly layout. Right now we manually set the height, but whenever
   Bootstrap 4 starts being used in Odoo with its flexbox support, this will not
@@ -80,6 +85,7 @@ Bug Tracker
 -----------
 
 
+
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and
@@ -90,9 +96,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <j.llopis@grupoesoc.es>
@@ -100,6 +109,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

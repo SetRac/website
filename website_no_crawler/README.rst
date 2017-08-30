@@ -21,15 +21,19 @@ Installation
 ------------
 
 
+
 Just install the module.
 
 Configuration
 -------------
 
 
+
 Nothing special to be configured.
 
 Usage
+-----
+
 -----
 
 =====
@@ -39,8 +43,10 @@ No useable features for an user are available.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -53,9 +59,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Roel Adriaans <roel.adriaans@b-informed.nl>
@@ -63,6 +72,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

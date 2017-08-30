@@ -31,24 +31,33 @@ by editing the html DOM.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 * Bruno Joliveau <bruno.joliveau@savoirfairelinux.com>
 * Jordi Riera <jordi.riera@savoirfairelinux.com>

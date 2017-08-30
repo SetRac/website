@@ -23,8 +23,10 @@ company logo (for reports) and a different website logo.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 To configure this module, you need to:
@@ -44,19 +46,26 @@ is actived
 Usage
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
@@ -65,6 +74,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

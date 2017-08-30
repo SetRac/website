@@ -33,6 +33,7 @@ Installation
 ------------
 
 
+
 This module depends on :
 
 * website
@@ -44,7 +45,10 @@ This module is part of the OCA/website suite.
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -61,10 +65,12 @@ Known issues / Roadmap
 ----------------------
 
 
+
  * no known issues
  
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
@@ -75,9 +81,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 * Odoo S.A.
 * Sergio Teruel (Incaser) <sergio@incaser.es>
@@ -88,6 +97,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

@@ -29,10 +29,14 @@ back.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -55,10 +59,12 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * Add possibility of uploading more than one files.
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -74,9 +80,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Rafael Blasco <rafaelbn@antiun.com>
@@ -87,6 +96,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

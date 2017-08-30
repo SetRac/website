@@ -23,8 +23,10 @@ Adds a Recaptcha validation to Contact form on Website
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 * Obtain ReCaptcha key from `Google <http://www.google.com/recaptcha/admin>`_
@@ -33,6 +35,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 =====
@@ -49,8 +53,10 @@ To use this module, you need to:
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -63,9 +69,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Dave Lasley <dave@laslabs.com>
@@ -74,6 +83,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

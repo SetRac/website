@@ -23,10 +23,14 @@ URLs and allow you to improve the SEO.
 Installation
 ------------
 
+
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -70,6 +74,7 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * Redirections are cached. If you hit one once, and then change it, you will
   mostly have to clear your browser's cache to avoid hitting a 404 error.
 * Make it multiwebsite-compatible.
@@ -84,6 +89,7 @@ Bug Tracker
 -----------
 
 
+
 Bugs are tracked on `GitHub Issues
 <https://github.com/OCA/website/issues>`_. In case of trouble, please
 check there if your issue has already been reported. If you spotted it first,
@@ -93,13 +99,16 @@ Credits
 -------
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <jairo.llopis@tecnativa.com>
@@ -107,6 +116,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png

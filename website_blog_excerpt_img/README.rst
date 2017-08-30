@@ -25,6 +25,7 @@ Installation
 ------------
 
 
+
 To install this module, you need to:
 
 * Install `OCA/server-tools <https://github.com/OCA/server-tools>`_.
@@ -32,7 +33,10 @@ To install this module, you need to:
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -49,6 +53,7 @@ Known issues / Roadmap
 ----------------------
 
 
+
 * Right now, it will display the cover image if available, and an image
   extracted from the post body otherwise. It would be nice to let the web admin
   choose that, or even better to display a carousel with all images from the
@@ -56,6 +61,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 Bugs are tracked on `GitHub Issues
@@ -71,9 +77,12 @@ Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Jairo Llopis <yajo.sk8@gmail.com>
@@ -81,6 +90,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: https://odoo-community.org/logo.png
