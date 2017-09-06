@@ -26,12 +26,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -64,8 +68,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -85,6 +91,7 @@ Credits
 
 
 
+
 Images
 
 * FontAwesome: `Some parts of the icon <http://fontawesome.io/>`_.
@@ -93,7 +100,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -103,6 +112,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

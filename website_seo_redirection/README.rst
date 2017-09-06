@@ -25,12 +25,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -80,6 +84,7 @@ Known issues / Roadmap
 
 
 
+
 * Redirections are cached. If you hit one once, and then change it, you will
   mostly have to clear your browser's cache to avoid hitting a 404 error.
 * Make it multiwebsite-compatible.
@@ -96,6 +101,7 @@ Bug Tracker
 
 
 
+
 Bugs are tracked on `GitHub Issues
 <https://github.com/OCA/website/issues>`_. In case of trouble, please
 check there if your issue has already been reported. If you spotted it first,
@@ -103,6 +109,7 @@ help us smashing it by providing a detailed and welcomed feedback.
 
 Credits
 -------
+
 
 
 
@@ -115,7 +122,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -125,6 +134,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

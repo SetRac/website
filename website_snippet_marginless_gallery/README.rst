@@ -28,12 +28,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -77,6 +81,7 @@ Known issues / Roadmap
 
 
 
+
 * If you do not set a fixed height to all your images in the snippet, it will
   get an ugly layout. Right now we manually set the height, but whenever
   Bootstrap 4 starts being used in Odoo with its flexbox support, this will not
@@ -88,6 +93,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 
@@ -104,11 +110,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -118,6 +127,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

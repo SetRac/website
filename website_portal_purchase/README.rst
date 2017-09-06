@@ -26,12 +26,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -58,10 +62,12 @@ Known issues / Roadmap
 
 
 
+
 * Tests
 
 Bug Tracker
 -----------
+
 
 
 
@@ -77,11 +83,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -93,6 +102,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

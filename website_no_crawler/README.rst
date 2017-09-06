@@ -23,6 +23,7 @@ Installation
 
 
 
+
 Just install the module.
 
 Configuration
@@ -31,9 +32,12 @@ Configuration
 
 
 
+
 Nothing special to be configured.
 
 Usage
+-----
+
 -----
 
 -----
@@ -49,8 +53,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -67,11 +73,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -81,6 +90,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -24,12 +24,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -49,10 +53,12 @@ Known issues / Roadmap
 
 
 
+
 * Shows 'no image' image
  
 Bug Tracker
 -----------
+
 
 
 
@@ -72,11 +78,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -86,6 +95,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

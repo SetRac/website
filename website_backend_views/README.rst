@@ -22,12 +22,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -44,6 +48,7 @@ Known issues / Roadmap
 
 
 
+
 * more testing needed
 * not all css styles from the backend apply (should be just a matter of having the right html structure/classes attached to the container)
 * maybe we can do something for anonymous users?
@@ -54,8 +59,10 @@ Bug Tracker
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -64,7 +71,9 @@ Credits
 
 
 
+
 ### Contributors
+
 
 
 
@@ -74,6 +83,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

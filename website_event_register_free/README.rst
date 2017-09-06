@@ -20,12 +20,16 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -42,11 +46,13 @@ Known issues / Roadmap
 
 
 
+
 * it would be nice if we could define tickets with price zero and free registration then asks which of the free tickets we want to take.
 * Move to OCA/event when migrating to v9.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -56,11 +62,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -77,6 +86,8 @@ Addon icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 

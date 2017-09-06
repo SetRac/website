@@ -25,8 +25,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -36,6 +38,8 @@ Configuration
 * Add secret key to `recaptcha.key.secret` system parameter
 
 Usage
+-----
+
 -----
 
 -----
@@ -66,8 +70,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -84,11 +90,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -98,6 +107,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

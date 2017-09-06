@@ -24,8 +24,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -50,6 +52,8 @@ Keep in mind that:
   URL for it.
 
 Usage
+-----
+
 -----
 
 -----
@@ -83,8 +87,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -104,6 +110,7 @@ Credits
 
 
 
+
 Images
 
 * Jairo Llopis: Icon.
@@ -112,7 +119,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -122,6 +131,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 
