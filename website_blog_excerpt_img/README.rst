@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
 ================================================================
@@ -26,6 +26,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 * Install `OCA/server-tools <https://github.com/OCA/server-tools>`_.
@@ -34,7 +35,10 @@ Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -54,6 +58,7 @@ Known issues / Roadmap
 
 
 
+
 * Right now, it will display the cover image if available, and an image
   extracted from the post body otherwise. It would be nice to let the web admin
   choose that, or even better to display a carousel with all images from the
@@ -61,6 +66,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 
@@ -78,10 +84,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -90,6 +99,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

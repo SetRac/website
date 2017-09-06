@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
 ================================================================
@@ -27,11 +27,15 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -72,6 +76,7 @@ Known issues / Roadmap
 
 
 
+
 * If you do not set a fixed height to all your images in the snippet, it will
   get an ugly layout. Right now we manually set the height, but whenever
   Bootstrap 4 starts being used in Odoo with its flexbox support, this will not
@@ -86,6 +91,7 @@ Bug Tracker
 
 
 
+
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/website/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and
@@ -97,10 +103,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -109,6 +118,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

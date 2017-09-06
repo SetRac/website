@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
 ================================================================
@@ -26,6 +26,7 @@ Installation
 
 
 
+
 Install the module the regular way.
 
 Configuration
@@ -33,10 +34,13 @@ Configuration
 
 
 
+
 On website shop page having edit permission, click on Customize, and select
 "Collapse product categories" to use this feature.
 
 Usage
+-----
+
 -----
 
 -----
@@ -53,6 +57,7 @@ Known issues / Roadmap
 
 
 
+
 This module won't be needed on v9, because it is already part of the core
 functionality, because of this PR: https://github.com/odoo/odoo/pull/4830.
 
@@ -60,15 +65,19 @@ Bug Tracker
 -----------
 
 
+
 Credits
 -------
+
 
 
 
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -78,6 +87,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

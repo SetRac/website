@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -28,58 +28,58 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[website_analytics_piwik](website_analytics_piwik/) | 8.0.1.0.0 |  N/D  | Track website users using piwik
-[website_anchor_smooth_scroll](website_anchor_smooth_scroll/) | 8.0.1.0.0 |  N/D  | When user clicks a link to scroll, the scroll is animated
-[website_backend_views](website_backend_views/) | 8.0.1.0.0 |  N/D  | Hook backend views into your website frontend
-[website_blog_excerpt_img](website_blog_excerpt_img/) | 8.0.1.0.0 |  N/D  | New layout for blog summary, including an excerpt and image
-[website_blog_facebook_comment](website_blog_facebook_comment/) | 8.0.1.0.0 |  N/D  | Add Facebook comments on blog posts
-[website_blog_mgmt](website_blog_mgmt/) | 8.0.1.0.0 |  N/D  | Website blog Management
-[website_blog_share](website_blog_share/) | 8.0.1.0.0 |  N/D  | Blog Share
-[website_blog_title_image](website_blog_title_image/) | 8.0.1.0.0 |  N/D  | Enables adding title image to blogpost.
-[website_breadcrumb](website_breadcrumb/) | 8.0.1.0.0 |  N/D  | Let you have breadcrumbs in website pages
-[website_calendar_snippet](website_calendar_snippet/) | 8.0.1.0.0 |  N/D  | Calendar (based on Messaging -> Calendar) on website.
-[website_canonical_url](website_canonical_url/) | 8.0.1.1.0 |  N/D  | Canonical URL in Website Headers
-[website_container_fluid](website_container_fluid/) | 8.0.1.0.1 |  N/D  | Let you choose between fixed or fluid containers
-[website_cookie_notice](website_cookie_notice/) | 8.0.2.1.0 |  N/D  | Show cookie notice according to cookie law
-[website_country_localized_pages](website_country_localized_pages/) | 8.0.1.0.0 |  N/D  | Show website pages localized according to country's visitor
-[website_crm_address](website_crm_address/) | 8.0.1.0.0 |  N/D  | Lets visitors fill in their address in the contact form
-[website_crm_privacy_policy](website_crm_privacy_policy/) | 8.0.1.0.0 |  N/D  | Website CRM privacy policy
-[website_crm_quick_answer](website_crm_quick_answer/) | 8.0.1.0.0 |  N/D  | Add an automatic answer for contacts asking for info
-[website_crm_recaptcha](website_crm_recaptcha/) | 8.0.1.0.0 |  N/D  | Provides a ReCaptcha validation in Website Contact Form
-[website_event_filter_organizer](website_event_filter_organizer/) | 8.0.1.0.0 |  N/D  | Filter events by organizer in frontend
-[website_event_register_free](website_event_register_free/) | 8.0.1.1.0 |  N/D  | Avoid shopping chart when registering for free events
-[website_event_register_free_with_sale](website_event_register_free_with_sale/) | 8.0.1.1.0 |  N/D  | Combine free and paid tickets on events
-[website_form_recaptcha](website_form_recaptcha/) | 8.0.1.0.0 |  N/D  | Provides a ReCaptcha field for Website Forms
-[website_hr_contact](website_hr_contact/) | 8.0.1.0.0 |  N/D  | Display your hr address book in your website
-[website_hr_department](website_hr_department/) | 8.0.0.1.0 |  N/D  | Display the structure of your departments and their members.
-[website_img_bg_style](website_img_bg_style/) | 8.0.1.0.0 |  N/D  | Let you change styles of snippets background images
-[website_legal_page](website_legal_page/) | 8.0.1.1.0 |  N/D  | Website legal page
-[website_logo](website_logo/) | 8.0.2.0.0 |  N/D  | Website company logo
-[website_menu_by_user_status](website_menu_by_user_status/) | 8.0.1.1.0 |  N/D  | Allow to manage the display of website.menus
-[website_menu_multilang](website_menu_multilang/) | 8.0.0.1.0 |  N/D  | Website Menu Multilanguage
-[website_multi_image](website_multi_image/) | 8.0.1.0.0 |  N/D  | Templates to display multiple images in website views
-[website_no_crawler](website_no_crawler/) | 8.0.1.0.0 |  N/D  | Disables robots.txt for indexing by webcrawlers like Google
-[website_parameterized_snippet](website_parameterized_snippet/) | 8.0.1.0.0 |  N/D  | Parameterize snippets
-[website_portal](website_portal/) | 8.0.1.0.0 |  N/D  | Account Management Frontend for your Customers
-[website_portal_purchase](website_portal_purchase/) | 8.0.1.0.0 |  N/D  | Add your purchase document in the frontend portal (purchase order, request for quotations, supplier invoices)
-[website_portal_sale](website_portal_sale/) | 8.0.1.0.0 |  N/D  | Add your sales document in the frontend portal (sales order, quotations, invoices)
-[website_product_supplier](website_product_supplier/) | 8.0.1.0.0 |  N/D  | Website Product Supplier
-[website_sale_collapse_categories](website_sale_collapse_categories/) | 8.0.1.0.0 |  N/D  | Collapsible product categories in website shop
-[website_sale_order_company](website_sale_order_company/) | 8.0.1.0.0 |  N/D  | Set order company according to products company
-[website_sale_product_category_seo](website_sale_product_category_seo/) | 8.0.1.0.0 |  N/D  | add Public Product Categories CMS Blocks
-[website_sale_survey](website_sale_survey/) | 8.0.1.0.0 |  N/D  | Survey for Online Sales
-[website_sale_unsaleable_options](website_sale_unsaleable_options/) | 8.0.1.0.0 |  N/D  | Prevent optional products to be sold singularly
-[website_sale_vat_required](website_sale_vat_required/) | 8.0.1.0.0 |  N/D  | VAT number required in checkout form
-[website_seo_redirection](website_seo_redirection/) | 8.0.1.1.0 |  N/D  | Redirect any controller to the URL of your dreams
-[website_signup_legal_page_required](website_signup_legal_page_required/) | 8.0.1.0.0 |  N/D  | Force the user to accept the legal terms to open an account
-[website_slides](website_slides/) | 8.0.2.0.0 |  N/D  | Share and Publish Videos, Presentations and Documents
-[website_snippet_anchor](website_snippet_anchor/) | 8.0.1.0.0 |  N/D  | Allow to reach a concrete section in the page
-[website_snippet_big_button](website_snippet_big_button/) | 8.0.1.0.0 |  N/D  | A snippet that adds two big buttons
-[website_snippet_contact_form](website_snippet_contact_form/) | 8.0.1.0.0 |  N/D  | Put a contact form anywhere you want
-[website_snippet_country_dropdown](website_snippet_country_dropdown/) | 8.0.1.1.0 |  N/D  | Allow to select country in a dropdown
-[website_snippet_marginless_gallery](website_snippet_marginless_gallery/) | 8.0.1.0.1 |  N/D  | Add a snippet to have a marginless image gallery
-[website_supplier_list](website_supplier_list/) | 8.0.1.0.0 |  N/D  | Publish Your Suppliers References
-[website_upload_video](website_upload_video/) | 8.0.1.0.0 |  N/D  | Upload video on website
+[website_analytics_piwik](website_analytics_piwik/) | 8.0.1.0.0 | :repeat: | Track website users using piwik
+[website_anchor_smooth_scroll](website_anchor_smooth_scroll/) | 8.0.1.0.0 | :repeat: | When user clicks a link to scroll, the scroll is animated
+[website_backend_views](website_backend_views/) | 8.0.1.0.0 | :repeat: | Hook backend views into your website frontend
+[website_blog_excerpt_img](website_blog_excerpt_img/) | 8.0.1.0.0 | :repeat: | New layout for blog summary, including an excerpt and image
+[website_blog_facebook_comment](website_blog_facebook_comment/) | 8.0.1.0.0 | :repeat: | Add Facebook comments on blog posts
+[website_blog_mgmt](website_blog_mgmt/) | 8.0.1.0.0 | :repeat: | Website blog Management
+[website_blog_share](website_blog_share/) | 8.0.1.0.0 | :repeat: | Blog Share
+[website_blog_title_image](website_blog_title_image/) | 8.0.1.0.0 | :repeat: | Enables adding title image to blogpost.
+[website_breadcrumb](website_breadcrumb/) | 8.0.1.0.0 | :repeat: | Let you have breadcrumbs in website pages
+[website_calendar_snippet](website_calendar_snippet/) | 8.0.1.0.0 | :repeat: | Calendar (based on Messaging -> Calendar) on website.
+[website_canonical_url](website_canonical_url/) | 8.0.1.1.0 | :repeat: | Canonical URL in Website Headers
+[website_container_fluid](website_container_fluid/) | 8.0.1.0.1 | :repeat: | Let you choose between fixed or fluid containers
+[website_cookie_notice](website_cookie_notice/) | 8.0.2.1.0 | :repeat: | Show cookie notice according to cookie law
+[website_country_localized_pages](website_country_localized_pages/) | 8.0.1.0.0 | :repeat: | Show website pages localized according to country's visitor
+[website_crm_address](website_crm_address/) | 8.0.1.0.0 | :repeat: | Lets visitors fill in their address in the contact form
+[website_crm_privacy_policy](website_crm_privacy_policy/) | 8.0.1.0.0 | :repeat: | Website CRM privacy policy
+[website_crm_quick_answer](website_crm_quick_answer/) | 8.0.1.0.0 | :repeat: | Add an automatic answer for contacts asking for info
+[website_crm_recaptcha](website_crm_recaptcha/) | 8.0.1.0.0 | :repeat: | Provides a ReCaptcha validation in Website Contact Form
+[website_event_filter_organizer](website_event_filter_organizer/) | 8.0.1.0.0 | :repeat: | Filter events by organizer in frontend
+[website_event_register_free](website_event_register_free/) | 8.0.1.1.0 | :repeat: | Avoid shopping chart when registering for free events
+[website_event_register_free_with_sale](website_event_register_free_with_sale/) | 8.0.1.1.0 | :repeat: | Combine free and paid tickets on events
+[website_form_recaptcha](website_form_recaptcha/) | 8.0.1.0.0 | :repeat: | Provides a ReCaptcha field for Website Forms
+[website_hr_contact](website_hr_contact/) | 8.0.1.0.0 | :repeat: | Display your hr address book in your website
+[website_hr_department](website_hr_department/) | 8.0.0.1.0 | :repeat: | Display the structure of your departments and their members.
+[website_img_bg_style](website_img_bg_style/) | 8.0.1.0.0 | :repeat: | Let you change styles of snippets background images
+[website_legal_page](website_legal_page/) | 8.0.1.1.0 | :repeat: | Website legal page
+[website_logo](website_logo/) | 8.0.2.0.0 | :repeat: | Website company logo
+[website_menu_by_user_status](website_menu_by_user_status/) | 8.0.1.1.0 | :repeat: | Allow to manage the display of website.menus
+[website_menu_multilang](website_menu_multilang/) | 8.0.0.1.0 | :repeat: | Website Menu Multilanguage
+[website_multi_image](website_multi_image/) | 8.0.1.0.0 | :repeat: | Templates to display multiple images in website views
+[website_no_crawler](website_no_crawler/) | 8.0.1.0.0 | :repeat: | Disables robots.txt for indexing by webcrawlers like Google
+[website_parameterized_snippet](website_parameterized_snippet/) | 8.0.1.0.0 | :repeat: | Parameterize snippets
+[website_portal](website_portal/) | 8.0.1.0.0 | :repeat: | Account Management Frontend for your Customers
+[website_portal_purchase](website_portal_purchase/) | 8.0.1.0.0 | :repeat: | Add your purchase document in the frontend portal (purchase order, request for quotations, supplier invoices)
+[website_portal_sale](website_portal_sale/) | 8.0.1.0.0 | :repeat: | Add your sales document in the frontend portal (sales order, quotations, invoices)
+[website_product_supplier](website_product_supplier/) | 8.0.1.0.0 | :repeat: | Website Product Supplier
+[website_sale_collapse_categories](website_sale_collapse_categories/) | 8.0.1.0.0 | :repeat: | Collapsible product categories in website shop
+[website_sale_order_company](website_sale_order_company/) | 8.0.1.0.0 | :repeat: | Set order company according to products company
+[website_sale_product_category_seo](website_sale_product_category_seo/) | 8.0.1.0.0 | :repeat: | add Public Product Categories CMS Blocks
+[website_sale_survey](website_sale_survey/) | 8.0.1.0.0 | :repeat: | Survey for Online Sales
+[website_sale_unsaleable_options](website_sale_unsaleable_options/) | 8.0.1.0.0 | :repeat: | Prevent optional products to be sold singularly
+[website_sale_vat_required](website_sale_vat_required/) | 8.0.1.0.0 | :repeat: | VAT number required in checkout form
+[website_seo_redirection](website_seo_redirection/) | 8.0.1.1.0 | :repeat: | Redirect any controller to the URL of your dreams
+[website_signup_legal_page_required](website_signup_legal_page_required/) | 8.0.1.0.0 | :repeat: | Force the user to accept the legal terms to open an account
+[website_slides](website_slides/) | 8.0.2.0.0 | :repeat: | Share and Publish Videos, Presentations and Documents
+[website_snippet_anchor](website_snippet_anchor/) | 8.0.1.0.0 | :repeat: | Allow to reach a concrete section in the page
+[website_snippet_big_button](website_snippet_big_button/) | 8.0.1.0.0 | :repeat: | A snippet that adds two big buttons
+[website_snippet_contact_form](website_snippet_contact_form/) | 8.0.1.0.0 | :repeat: | Put a contact form anywhere you want
+[website_snippet_country_dropdown](website_snippet_country_dropdown/) | 8.0.1.1.0 | :repeat: | Allow to select country in a dropdown
+[website_snippet_marginless_gallery](website_snippet_marginless_gallery/) | 8.0.1.0.1 | :repeat: | Add a snippet to have a marginless image gallery
+[website_supplier_list](website_supplier_list/) | 8.0.1.0.0 | :repeat: | Publish Your Suppliers References
+[website_upload_video](website_upload_video/) | 8.0.1.0.0 | :repeat: | Upload video on website
 
 [//]: # (end addons)
 

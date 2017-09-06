@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 Register for free website events - Sale extension
 =================================================
@@ -21,6 +21,7 @@ Installation
 
 
 
+
 This module will be auto-installed when *website_event_register_free* and
 *website_event_sale* are both installed.
 
@@ -28,7 +29,10 @@ Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -52,6 +56,7 @@ Known issues / Roadmap
 
 
 
+
 * Hide on checkout page the fields that are not needed for free events.
 * Move to OCA/event when migrating to v9.
 
@@ -59,15 +64,19 @@ Bug Tracker
 -----------
 
 
+
 Credits
 -------
+
 
 
 
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -84,6 +93,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 
