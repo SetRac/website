@@ -26,6 +26,7 @@ Installation
 
 
 
+
 just install
 
 Configuration
@@ -36,10 +37,13 @@ Configuration
 
 
 
+
 no configure requiered
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -68,10 +72,12 @@ Known issues / Roadmap
 
 
 
+
 * None
 
 Bug Tracker
 -----------
+
 
 
 
@@ -92,7 +98,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -105,12 +113,15 @@ Credits
 
 
 
+
 * Michael Karrer 
 *     Markus Schneider <markus.schneider at initos.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -24,6 +24,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -31,7 +32,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -54,6 +58,7 @@ Known issues / Roadmap
 
 
 
+
 * more testing needed
 * not all css styles from the backend apply (should be just a matter of having the right html structure/classes attached to the container)
 * maybe we can do something for anonymous users?
@@ -61,6 +66,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 
@@ -74,7 +80,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -87,11 +95,14 @@ Credits
 
 
 
+
 * Holger Brunn <hbrunn@therp.nl>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

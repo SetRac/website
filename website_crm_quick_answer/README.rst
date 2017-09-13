@@ -28,8 +28,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -48,6 +50,8 @@ will want to do):
 * Edit the template called *Quick response to website contact form*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -81,10 +85,12 @@ Known issues / Roadmap
 
 
 
+
 * The default template is quite basic, you should change that.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -122,7 +128,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -135,12 +143,15 @@ Credits
 
 
 
+
 * Rafael Blasco <rafabn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

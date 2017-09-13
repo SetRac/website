@@ -30,6 +30,7 @@ Installation
 
 
 
+
 This module adds no visible behavior, just some reusable tools for developers.
 It will be automatically installed if any other module you have needs those
 tools, but otherwise you probably don not need it.
@@ -53,7 +54,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -71,8 +75,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -96,7 +102,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -109,12 +117,15 @@ Credits
 
 
 
+
 * Rafael Blasco <rafabn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

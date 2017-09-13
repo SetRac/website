@@ -28,8 +28,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -49,6 +51,8 @@ To customize the legal pages, visit these **after installing the module**:
 * `Terms of use </page/terms>`_.
 
 Usage
+-----
+
 -----
 
 -----
@@ -85,8 +89,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -109,7 +115,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -122,12 +130,15 @@ Credits
 
 
 
+
 * Rafael Blasco <rafaelbn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

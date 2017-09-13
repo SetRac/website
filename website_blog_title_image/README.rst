@@ -26,6 +26,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -33,7 +34,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -59,10 +63,12 @@ Known issues / Roadmap
 
 
 
+
 * Shows 'no image' image
  
 Bug Tracker
 -----------
+
 
 
 
@@ -86,7 +92,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -99,11 +107,14 @@ Credits
 
 
 
+
 * Dennis Sluijk <d.sluijk@onestein.nl>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -27,6 +27,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -34,7 +35,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -90,6 +94,7 @@ Known issues / Roadmap
 
 
 
+
 * Redirections are cached. If you hit one once, and then change it, you will
   mostly have to clear your browser's cache to avoid hitting a 404 error.
 * Make it multiwebsite-compatible.
@@ -102,6 +107,7 @@ Notes for migration to v10:
 
 Bug Tracker
 -----------
+
 
 
 
@@ -121,11 +127,13 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -138,11 +146,14 @@ Images
 
 
 
+
 * Jairo Llopis <jairo.llopis@tecnativa.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

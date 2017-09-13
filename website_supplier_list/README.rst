@@ -28,6 +28,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 1.  Clone the branch 8.0 of the repository https://github.com/OCA/website
@@ -44,7 +45,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -75,8 +79,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -101,11 +107,13 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -118,11 +126,14 @@ Images
 
 
 
+
 * Michael Viriyananda <viriyananda.michael@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 
