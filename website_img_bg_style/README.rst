@@ -34,13 +34,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -72,6 +76,7 @@ Known issues / Roadmap
 
 
 
+
 * Right now you can only select one style for every snippet. To fix that we
   would need to base this module in *website_less*, whose source code is not
   available in OCA. In version 9.0 this will be fixed, but in version 8.0 you
@@ -80,6 +85,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 
@@ -99,7 +105,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -110,11 +118,14 @@ Credits
 
 
 
+
 * Jairo Llopis <j.llopis@grupoesoc.es>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

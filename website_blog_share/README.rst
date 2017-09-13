@@ -26,13 +26,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -64,8 +68,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -83,7 +89,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -94,11 +102,14 @@ Credits
 
 
 
+
 * Andhitia Rama <andhitia.r@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

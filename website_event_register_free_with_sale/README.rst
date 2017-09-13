@@ -23,6 +23,7 @@ Installation
 
 
 
+
 This module will be auto-installed when *website_event_register_free* and
 *website_event_sale* are both installed.
 
@@ -32,7 +33,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -62,11 +66,13 @@ Known issues / Roadmap
 
 
 
+
 * Hide on checkout page the fields that are not needed for free events.
 * Move to OCA/event when migrating to v9.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -78,12 +84,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -102,6 +111,8 @@ Icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 

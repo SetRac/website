@@ -25,6 +25,7 @@ Installation
 
 
 
+
 just install
 
 Configuration
@@ -34,10 +35,13 @@ Configuration
 
 
 
+
 no configure requiered
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -63,10 +67,12 @@ Known issues / Roadmap
 
 
 
+
 * None
 
 Bug Tracker
 -----------
+
 
 
 
@@ -85,12 +91,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -102,6 +111,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

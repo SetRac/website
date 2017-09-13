@@ -28,13 +28,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -85,10 +89,12 @@ Known issues / Roadmap
 
 
 
+
 * Add tests.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -110,11 +116,13 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -125,11 +133,14 @@ Images
 
 
 
+
 * Sergio Teruel <sergio.teruel@tecnativa.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

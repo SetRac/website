@@ -27,13 +27,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -69,8 +73,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -92,11 +98,13 @@ Credits
 
 
 
+
 Images
 
 * FontAwesome: `Some parts of the icon <http://fontawesome.io/>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -107,11 +115,14 @@ Images
 
 
 
+
 * Jairo Llopis <yajo.sk8@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 
