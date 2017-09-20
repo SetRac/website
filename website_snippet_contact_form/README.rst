@@ -35,6 +35,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -44,7 +45,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -85,10 +89,12 @@ Known issues / Roadmap
 
 
 
+
 * Add possibility of uploading more than one files.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -116,7 +122,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -133,6 +141,7 @@ Credits
 
 
 
+
 * Rafael Blasco <rafaelbn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
 * Antonio Espinosa <antonioea@antiun.com>
@@ -141,6 +150,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

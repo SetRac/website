@@ -29,8 +29,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -82,6 +84,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -91,8 +95,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -117,7 +123,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -134,6 +142,7 @@ Credits
 
 
 
+
 * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
 * Rafael Blasco <rafabn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
@@ -141,6 +150,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

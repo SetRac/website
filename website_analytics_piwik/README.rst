@@ -26,8 +26,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -58,6 +60,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -67,8 +71,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -86,6 +92,7 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
@@ -94,7 +101,9 @@ Credits
 
 
 
+
 ### Contributors
+
 
 
 
@@ -113,6 +122,8 @@ http://piwik.org/media
 ### Funders
 
 ### Maintainer
+
+
 
 
 

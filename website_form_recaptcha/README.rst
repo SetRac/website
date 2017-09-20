@@ -29,8 +29,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -44,6 +46,8 @@ Configuration
 * Add secret key to `recaptcha.key.secret` system parameter
 
 Usage
+-----
+
 -----
 
 -----
@@ -86,8 +90,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -112,7 +118,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -129,11 +137,14 @@ Credits
 
 
 
+
 * Dave Lasley <dave@laslabs.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

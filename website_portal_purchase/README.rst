@@ -30,6 +30,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -39,7 +40,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -78,10 +82,12 @@ Known issues / Roadmap
 
 
 
+
 * Tests
 
 Bug Tracker
 -----------
+
 
 
 
@@ -105,7 +111,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -122,6 +130,7 @@ Credits
 
 
 
+
 * Rafael Blasco <rafabn@antiun.com>
 * Carlos Dauden <carlos@incaser.es>
 * Sergio Teruel <sergio@incaser.es>
@@ -129,6 +138,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

@@ -30,6 +30,7 @@ Installation
 
 
 
+
 You might be interested in the module ``website_snippet_anchor``, that lets you
 assign anchors and link to them easily, but it is not required.
 
@@ -42,7 +43,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -80,10 +84,12 @@ Known issues / Roadmap
 
 
 
+
 * Add option to smooth when changing page.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -111,11 +117,13 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -132,12 +140,15 @@ Images
 
 
 
+
 * Rafael Blasco <rafabn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

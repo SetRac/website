@@ -30,6 +30,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -39,7 +40,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -70,10 +74,12 @@ Known issues / Roadmap
 
 
 
+
  * todo: add the department's address book
 
 Bug Tracker
 -----------
+
 
 
 
@@ -97,7 +103,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -114,11 +122,14 @@ Credits
 
 
 
+
 * Laurent Mignon <laurent.mignon@acsone.eu>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 
