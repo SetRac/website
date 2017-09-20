@@ -28,12 +28,14 @@ Installation
 
 
 
+
 To install this module, you need ipwhois
 https://pypi.python.org/pypi/ipwhois
 
 
 Configuration
 -------------
+
 
 
 
@@ -64,8 +66,11 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
+
 
 
 
@@ -77,6 +82,7 @@ Known issues / Roadmap
 
 Bug Tracker
 -----------
+
 
 
 
@@ -99,7 +105,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -114,11 +122,14 @@ Credits
 
 
 
+
 * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

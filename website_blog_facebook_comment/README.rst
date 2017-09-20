@@ -27,12 +27,14 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 * website_blog
 
 Configuration
 -------------
+
 
 
 
@@ -59,6 +61,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -67,8 +71,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -91,7 +97,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -106,12 +114,15 @@ Credits
 
 
 
+
 * Rafael Blasco <rafabn@antiun.com>
 * Endika Iglesias <endikaig@antiun.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

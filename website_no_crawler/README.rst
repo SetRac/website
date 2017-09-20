@@ -26,6 +26,7 @@ Installation
 
 
 
+
 Just install the module.
 
 Configuration
@@ -37,9 +38,12 @@ Configuration
 
 
 
+
 Nothing special to be configured.
 
 Usage
+-----
+
 -----
 
 -----
@@ -64,8 +68,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -88,7 +94,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -103,11 +111,14 @@ Credits
 
 
 
+
 * Roel Adriaans <roel.adriaans@b-informed.nl>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

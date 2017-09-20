@@ -35,6 +35,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -43,7 +44,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -77,8 +81,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -102,7 +108,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -117,11 +125,14 @@ Credits
 
 
 
+
 * Jairo Llopis <j.llopis@grupoesoc.es>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

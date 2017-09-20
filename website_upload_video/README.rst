@@ -31,6 +31,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -39,7 +40,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -71,11 +75,13 @@ Known issues / Roadmap
 
 
 
+
 * No video preview
 * Option autoplay is not implemented
  
 Bug Tracker
 -----------
+
 
 
 
@@ -101,7 +107,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -116,11 +124,14 @@ Credits
 
 
 
+
 * Dennis Sluijk <d.sluijk@onestein.nl>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

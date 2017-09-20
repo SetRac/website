@@ -30,6 +30,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -38,7 +39,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -59,8 +63,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -82,7 +88,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -97,6 +105,7 @@ Credits
 
 
 
+
 * Thomas Rehn <thomas.rehn@initos.com>
 * Rami Alwafaie <rami.alwafaie@initos.com>
 * Jairo Llopis <jairo.llopis@tecnativa.com>
@@ -104,6 +113,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

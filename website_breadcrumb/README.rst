@@ -27,8 +27,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -56,6 +58,8 @@ Keep in mind that:
   URL for it.
 
 Usage
+-----
+
 -----
 
 -----
@@ -98,8 +102,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -125,11 +131,13 @@ Credits
 
 
 
+
 Images
 
 * Jairo Llopis: Icon.
 
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -144,11 +152,14 @@ Images
 
 
 
+
 * Jairo Llopis <yajo.sk8@gmail.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

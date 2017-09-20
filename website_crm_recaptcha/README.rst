@@ -28,8 +28,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -43,6 +45,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -74,8 +78,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -98,7 +104,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -113,12 +121,15 @@ Credits
 
 
 
+
 * Dave Lasley <dave@laslabs.com>
 * Jairo Llopis <jairo.llopis@tecnativa.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

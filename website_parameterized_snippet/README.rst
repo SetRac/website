@@ -38,6 +38,7 @@ Installation
 
 
 
+
 Configuration
 -------------
 
@@ -46,7 +47,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -102,8 +106,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -125,6 +131,7 @@ Credits
 
 
 
+
 Thanks to Holger Brunn <hbrunn@therp.nl> for the parametric t tag idea.
 
 Thanks to Laurent Mignon <laurent.mignon@acsone.eu> for extending also website.qweb.field.html to render 
@@ -138,7 +145,9 @@ t-call elements inserted by snippets using the parametic approach and stored on 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -155,6 +164,8 @@ Do not contact contributors directly about help with questions or problems conce
 ### Funders
 
 ### Maintainer
+
+
 
 
 
