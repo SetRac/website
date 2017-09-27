@@ -59,6 +59,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 For further information, please visit:
@@ -96,7 +98,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

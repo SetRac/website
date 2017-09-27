@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Website Sale Survey
+===================
 
 This module extends the functionality of online sale orders to support surveys
 and to allow you to define a default survey and to show it to customer after payment
@@ -48,6 +49,8 @@ To configure this module, you need to:
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -111,7 +114,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Blog Post Title Image
+=====================
 
 With this module you're able to add an image to the title of a blog post.
 
@@ -40,6 +41,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -107,7 +110,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

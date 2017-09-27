@@ -16,6 +16,7 @@
     :alt: License: AGPL-3
 
 Website Product Supplier
+========================
 
 This module was written to allow suppliers to create new products in
 website portal purchase.
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -110,7 +113,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

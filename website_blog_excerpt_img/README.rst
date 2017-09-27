@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Excerpt + Image in Blog
+=======================
 
 This module extends the functionality of blogs to support having a more
 attractive layout that automatically displays an excerpt of each post, a "Read
@@ -47,6 +48,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -120,7 +123,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

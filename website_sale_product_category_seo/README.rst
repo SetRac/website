@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Public Product Category CMS Block
+=================================
 
 Make it possible to add snippets on top and bottom to public product categories in product block and list views. This is similar to magento cms_block feature and you can provide content to optimize your seo rank.
 
@@ -46,6 +47,8 @@ no configure requiered
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -113,7 +116,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

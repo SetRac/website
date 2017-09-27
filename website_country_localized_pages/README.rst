@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Country specific web pages
+==========================
 
 Use this module to create localized web pages according to visitor's country.
 
@@ -72,6 +73,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -113,7 +116,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -16,6 +16,7 @@
     :alt: License: AGPL-3
 
 Quick answer for website contact form
+=====================================
 
 This module was written to extend the functionality of the website contact form
 to support sending the interested contact an automatic welcome email and allow
@@ -54,6 +55,8 @@ will want to do):
 * Edit the template called *Quick response to website contact form*.
 
 Usage
+-----
+
 -----
 
 -----
@@ -143,7 +146,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

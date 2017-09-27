@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 e-commerce unsaleable options
+=============================
 
 This module prevents optional products to be sold singularly.
 That is, they can only be sold if associated to their main product.
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -87,7 +90,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

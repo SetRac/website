@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Multiple images base
+====================
 
 This module extends the functionality of ``base_multi_image`` and provides some
 technical tools useful to combine it with ``website``.
@@ -76,6 +77,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -117,7 +120,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

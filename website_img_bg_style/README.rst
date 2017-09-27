@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Snippet Background Style
+========================
 
 This module was written to extend the functionality of the website editor to
 support choosing more options when setting a background image to any element.
@@ -49,6 +50,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -127,7 +130,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

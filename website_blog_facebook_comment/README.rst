@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Blog with Facebook comment
+==========================
 
 This module add facebook comments in blog post.
 
@@ -51,6 +52,8 @@ To configure this module, you need to:
 * add copy appId in website configuration area.
 
 Usage
+-----
+
 -----
 
 -----
@@ -105,7 +108,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

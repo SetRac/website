@@ -16,6 +16,7 @@
     :alt: License: AGPL-3
 
 Parameterized Snippets
+======================
 
 This module adds extensions in order to render available 
 to the programmer a new tag in qweb views: "t-ignore-branding".
@@ -51,6 +52,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -145,7 +148,6 @@ Thanks to Laurent Mignon <laurent.mignon@acsone.eu> for extending also website.q
 t-call elements inserted by snippets using the parametic approach and stored on the related model itself. 
 
 
-[![Odoo Italia Associazione]]
 
 
 

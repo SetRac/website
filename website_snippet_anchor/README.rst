@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Set Snippet's Anchor
+====================
 
 This module extends the functionality of the website editor to support setting
 an anchor to any section of your web page and allow you to link to them very
@@ -46,6 +47,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -130,7 +133,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

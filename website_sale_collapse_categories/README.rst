@@ -15,6 +15,7 @@
     :alt: License
 
 Collapsible product categories in website shop
+==============================================
 
 This module changes categories list to allow to collapse them.
 
@@ -49,6 +50,8 @@ On website shop page having edit permission, click on Customize, and select
 "Collapse product categories" to use this feature.
 
 Usage
+-----
+
 -----
 
 -----
@@ -107,7 +110,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

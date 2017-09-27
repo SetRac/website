@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Require accepting legal terms
+=============================
 
 This module was written to extend the functionality of website legal page to
 force new users to accept the stablished legal terms before creating a new user
@@ -55,6 +56,8 @@ To customize the legal pages, visit these **after installing the module**:
 * `Terms of use </page/terms>`_.
 
 Usage
+-----
+
 -----
 
 -----
@@ -130,7 +133,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

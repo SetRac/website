@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Smooth Scroll for Website Anchors
+=================================
 
 This module extends the functionality of website links to support smooth
 scrolling and allow you to have it for free and with zero configuration.
@@ -45,6 +46,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -122,7 +125,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

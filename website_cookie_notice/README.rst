@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Cookie notice
+=============
 
 This module adds the cookie notice, according to the `european cookie law
 <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:en:HTML>`_,
@@ -86,6 +87,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -124,7 +127,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

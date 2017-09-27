@@ -16,6 +16,7 @@
     :alt: License: AGPL-3
 
 Website Event Filter Organizer
+==============================
 
 This module extends the functionality of *website_event* module to allow you
 to filter events by organizer into main events page.
@@ -50,6 +51,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -120,7 +123,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

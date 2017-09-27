@@ -58,6 +58,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -89,7 +91,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

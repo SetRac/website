@@ -16,6 +16,7 @@
     :alt: License: AGPL-3
 
 HR Address Book
+===============
 
 This module add a new page into your website displaying the address book of your employees.
 The informations related to your employees are publicly available if your employee is
@@ -42,6 +43,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -104,7 +107,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

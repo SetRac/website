@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Website legal page
+==================
 
 This module was written to provide common legal pages needed in any website:
 
@@ -46,6 +47,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -144,7 +147,6 @@ Icon based on ```johnny-automatic-scales-of-justice.svg``` from
 Thanks to [johnny_automatic](https://openclipart.org/user-detail/johnny_automatic)
 
 
-[![Odoo Italia Associazione]]
 
 
 

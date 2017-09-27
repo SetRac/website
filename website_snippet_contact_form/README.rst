@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Contact Form Snippet
+====================
 
 This module was written to extend the functionality of contact form to embed it
 in a snippet and allow you to put it in any page you want.
@@ -47,6 +48,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -123,7 +126,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

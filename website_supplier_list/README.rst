@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
     
 Website Supplier List
+=====================
 
 This module was written to extend the functionality of the website 
 to allow users to publish his suppliers on a new page.
@@ -51,6 +52,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -126,7 +129,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

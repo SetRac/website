@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Website CRM - ReCaptcha
+=======================
 
 Adds a Recaptcha validation to Contact form on Website
 
@@ -47,6 +48,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -112,7 +115,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

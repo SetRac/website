@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Upload video on website
+=======================
 
 This module adds a "Upload video" option to the "Select a Media / Video" 
 dialog. It uploads the video to the filesystem of the Odoo server so 
@@ -44,6 +45,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -115,7 +118,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

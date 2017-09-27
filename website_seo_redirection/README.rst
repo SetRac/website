@@ -16,6 +16,7 @@
    :alt: License: LGPL-3
 
 Website SEO Redirection
+=======================
 
 This module extends the functionality of the website to support using custom
 URLs and allow you to improve the SEO.
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -146,7 +149,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

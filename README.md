@@ -13,6 +13,7 @@
 ================================================================================================
 
 Odoo modules for website builder
+================================
 
 Includes modules that expand official website modules and include:
 

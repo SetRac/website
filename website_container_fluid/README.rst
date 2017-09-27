@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Snippet container width type chooser
+====================================
 
 This module was written to extend the functionality of the website editor to
 support choosing the width type between the available `Bootstrap container
@@ -48,6 +49,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -116,7 +119,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

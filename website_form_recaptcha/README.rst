@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Website Form - ReCaptcha
+========================
 
 Adds a ReCaptcha field widget for website forms
 
@@ -46,6 +47,8 @@ Configuration
 * Add secret key to `recaptcha.key.secret` system parameter
 
 Usage
+-----
+
 -----
 
 -----
@@ -119,7 +122,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

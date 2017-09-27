@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Big Buttons Snippet
+===================
 
 This module was written to extend the functionality of website to support
 inserting a block with a "like" and "not like" button and allow you to
@@ -42,6 +43,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -124,7 +127,6 @@ Images
 
 * FontAwesome: `Some parts of the icon <http://fontawesome.io/>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

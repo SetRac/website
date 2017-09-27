@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 e-commerce order company
+========================
 
 This module sets online (ecommerce) order's company according to purchased products.
 
@@ -43,6 +44,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -96,7 +99,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

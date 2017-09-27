@@ -57,6 +57,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 You have two options for events:
@@ -106,7 +108,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

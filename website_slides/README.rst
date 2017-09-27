@@ -16,6 +16,7 @@
     :alt: License: LGPL-3
 
 Website Slides
+==============
 
 This module allows publish documents into frontend website.
 
@@ -59,6 +60,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -124,7 +127,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

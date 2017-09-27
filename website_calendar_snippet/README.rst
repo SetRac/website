@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Calendar Snippet
+================
 
 This module adds a new block in the website editor.
 The new block is based on Messaging -> Calendar. Use field 'Privacy'
@@ -44,6 +45,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -124,7 +127,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

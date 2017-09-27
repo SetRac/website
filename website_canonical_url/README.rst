@@ -14,6 +14,7 @@
 ================================================================
     :alt: License: AGPL-3
 Website Canoncial URL
+=====================
 
 This module adds a HTML tag in the header that contains a canoncial URL for the current page.
 
@@ -43,6 +44,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -96,7 +99,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

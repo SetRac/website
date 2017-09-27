@@ -16,6 +16,7 @@
    :alt: License: LGPL-3
 
 Snippet's dropdown country code
+===============================
 
 This module adds a snippet with a dropdown and an input text field, is a base
 for be inherited by others modules into an HTML form.
@@ -43,6 +44,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -142,7 +145,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

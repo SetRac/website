@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Website Breadcrumbs
+===================
 
 This module allows you to have breadcrumbs in any page of your website.
 
@@ -60,6 +61,8 @@ Keep in mind that:
   URL for it.
 
 Usage
+-----
+
 -----
 
 -----
@@ -143,7 +146,6 @@ Images
 
 * Jairo Llopis: Icon.
 
-[![Odoo Italia Associazione]]
 
 
 

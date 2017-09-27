@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Blog Share
+==========
 
 This module brings the users the possibility to globally enable/disable a share button 
 that will be displayed in each blog post.
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -111,7 +114,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -17,6 +17,7 @@
 
 
 Website Portal for Sales
+========================
 
 Backport (with adjustments) of the ``website_portal_sale`` module of Odoo 9.
 
@@ -45,6 +46,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -125,7 +128,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

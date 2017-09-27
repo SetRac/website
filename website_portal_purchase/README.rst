@@ -16,6 +16,7 @@
     :alt: License: AGPL-3
 
 Website Portal for Purchases
+============================
 
 This module adds the partner's purchase documents in the frontend portal.
 Suppliers will be able to see the list and state of their request for
@@ -42,6 +43,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -112,7 +115,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 Website CRM privacy policy
+==========================
 
 This module was written to add a checkbox to contact us form for user privacy
 policy validation
@@ -42,6 +43,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -118,7 +121,6 @@ Thanks to:
 * [jetxee](https://openclipart.org/user-detail/jetxee)
 
 
-[![Odoo Italia Associazione]]
 
 
 

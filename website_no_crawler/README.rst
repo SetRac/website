@@ -60,6 +60,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 No useable features for an user are available.
@@ -102,7 +104,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 
