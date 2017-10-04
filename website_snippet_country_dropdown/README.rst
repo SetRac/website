@@ -66,6 +66,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 To extend this template you need to inherit *country_dropdown* template and to
