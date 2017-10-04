@@ -64,6 +64,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 Set 'company' field for products that must be sold by that company.

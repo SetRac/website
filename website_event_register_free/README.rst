@@ -56,6 +56,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 After installation, a registration link will show up for published events with free seats. If you happen to have website_event_sale installed, this link will only show if there are no tickets defined for the event.
