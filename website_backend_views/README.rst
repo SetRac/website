@@ -62,6 +62,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 Install this module with demo data enabled and visit `/website_backend_views/demo`. Then read `view/demo.xml`.

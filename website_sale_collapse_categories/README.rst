@@ -74,6 +74,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 First level categories are shown, but collapsed by default, hidding their
