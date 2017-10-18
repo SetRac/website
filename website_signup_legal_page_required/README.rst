@@ -58,31 +58,18 @@ To customize the legal pages, visit these **after installing the module**:
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
 =====
 

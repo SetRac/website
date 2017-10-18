@@ -52,31 +52,18 @@ On website shop page having edit permission, click on Customize, and select
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
 =====
 

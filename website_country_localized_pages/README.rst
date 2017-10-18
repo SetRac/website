@@ -59,31 +59,18 @@ Visitors from Unites States will see the 'US features' page instead of the stand
 Usage
 -----
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
------
 
 Known issues / Roadmap
 ----------------------
